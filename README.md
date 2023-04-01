@@ -1,6 +1,6 @@
 <h1>Hello World!</h1>
 
-<p> Olá, eu sou o Pablo! Faço faculdade de Analise e Desenvolvimento de Sistemas e faço curso de desenvolvimetno front end, do progama Ford <Enter>. </p>
+<p> Olá, eu sou o Pablo! Faço faculdade de Analise e Desenvolvimento de Sistemas e faço curso de desenvolvimetno front end, do progama Ford &lt;Enter&gt;. </p>
 
 <div>
   <a href="https://github.com/PabloJesusdaSilva"></a>
@@ -9,10 +9,10 @@
 </div>
 
 <div style="display: inline_block"> <br>
-  <img align ="center" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" />
-  <img align ="center" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" />
-  <img align ="center" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />   
-  <img align ="center" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+  <img align ="center" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg">
+  <img align ="center" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg">
+  <img align ="center" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg">   
+  <img align ="center" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
 </div>
   
   ##
