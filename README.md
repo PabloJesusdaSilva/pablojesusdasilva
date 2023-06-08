@@ -1,6 +1,6 @@
 <h1>Hello World!</h1>
 
-<p> Olá, eu sou o Pablo! Faço faculdade de Analise e Desenvolvimento de Sistemas e faço curso de desenvolvimetno front end, do progama Ford &lt;Enter&gt;. </p>
+<p> Olá, eu sou o Pablo! Faço faculdade de Analise e Desenvolvimento de Sistemas e faço curso de desenvolvimetno front end, do programa Ford &lt;Enter&gt;. </p>
 
 <div>
   <a href="https://github.com/PabloJesusdaSilva"></a>
