@@ -1,15 +1,15 @@
-# Hi, I'am Pablo
+# Hi There! 👋🏻
 
 
-##### Java Developer
+##### Java 
 ##### From São Paulo - SP
 ##### Studying Software Engineering
+##### Love Good Challengue
 
 ##
 
 <div>
   <a href="https://github.com/PabloJesusdaSilva"></a>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pablojesusdasilva&show_icons=true&theme=tokyonight">
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pablojesusdasilva&layout=compact&langs-count=168&theme=tokyonight">
 </div>
 
