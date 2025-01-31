@@ -1,10 +1,10 @@
 # Hi There! 👋🏻
 
 
-Java | Spring Boot | Postgres | React.js
-##### From São Paulo - SP
-##### Studying Software Engineering
-##### Love Good Challengue
+Java | Spring Boot | Postgres | React.js | Typescript
+##### 🏠 From São Paulo - SP
+##### 🧑🏻‍💻 Studying Software Engineering
+##### 💡 Love Good Challengue
 
 ##
 
