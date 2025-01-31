@@ -1,7 +1,7 @@
 # Hi There! 👋🏻
 
 
-##### Java 
+Java | Spring Boot | Postgres | React.js
 ##### From São Paulo - SP
 ##### Studying Software Engineering
 ##### Love Good Challengue
