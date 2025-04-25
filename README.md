@@ -7,21 +7,14 @@ Java | Spring Boot | Postgres | React.js | Typescript
 ##### 💡 Love Good Challengue
 
 
- # Contact Me 
-  
-  
-<div>
-    <a href="mailto:pablojesusdasilva0@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" color="purple"></a>
-    <a href="https://www.instagram.com/pablo_jsilvaa" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-    <a href="https://www.instagram.com/pablo_jsilvaa](https://www.linkedin.com/in/pablojesusdasilva/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-</div>
 
 
-##
-###
-
-
-<div>
-  <a href="https://github.com/PabloJesusdaSilva"></a>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pablojesusdasilva&layout=compact&langs-count=168&theme=tokyonight">
-</div>
+## Contact Me
+<p align="left">
+  <a href="mailto:pablosilva0818@gmail.com" title="Gmail">
+  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=mailto:pablosilva0818@gmail.com" alt="Gmail"/></a>
+  <a href="#" title="LinkedIn">
+  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/pablojesusdasilva" alt="LinkedIn"/></a>
+  <a href="https://api.whatsapp.com/send?phone=11977837146" title="WhatsApp">
+  <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=11977837146" alt="WhatsApp"/></a>
+</p>
