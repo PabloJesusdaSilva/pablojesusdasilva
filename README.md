@@ -1,7 +1,7 @@
 # Hi There! 👋🏻
 
 
-Java | Spring Boot | Postgres | React.js | Typescript
+Python | Pandas | SQL | Postgres | Snowflake | Qlik Sense
 ##### 🏠 From São Paulo - SP
 ##### 🧑🏻‍💻 Studying Software Engineering
 ##### 💡 Love Good Challengue
